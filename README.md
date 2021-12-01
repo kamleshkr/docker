@@ -69,3 +69,5 @@ docker volume ls
 Look for volumes, Mounts in the json
 
 
+Bind Mounting
+--------------
